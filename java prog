@@ -24,7 +24,7 @@ class Main {
       // search only the right side of mid
       else
         high = mid - 1
-    }
+    };
 
     return -1;
   }
