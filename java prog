@@ -18,7 +18,7 @@ class Main {
       // if element is less than mid element
       // search only the left side of mid
       if (array[mid] < element)
-        low = mid + 1
+        low = mid + 1;
 
       // if element is greater than mid element
       // search only the right side of mid
