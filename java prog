@@ -12,7 +12,7 @@ class Main {
       int mid = low + (high - low) / 2;
 
       // if element to be searched is the mid element
-      if (array[mid] == element)
+      if (array[mid] == element);
         return mid
 
       // if element is less than mid element
