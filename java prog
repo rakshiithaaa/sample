@@ -9,7 +9,7 @@ class Main {
     while (low <= high) {
 
       // get index of mid element
-      int mid = low + (high - low) / 2
+      int mid = low + (high - low) / 2;
 
       // if element to be searched is the mid element
       if (array[mid] == element)
